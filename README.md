@@ -218,7 +218,7 @@ Customer-Churn-Risk-Analytics
 
 
 
-<img src="https://raw.githubusercontent.com/ayushchanekar64-hub/Customer-Churn-Risk-Analytics/main/Screenshots/Executive\_Dashboard.png" width="1000">
+!\[Dashboard](https://github.com/ayushchanekar64-hub/Customer-Churn-Risk-Analytics/blob/main/Screenshots/Executive\_Dashboard.png?raw=true)
 
 
 
