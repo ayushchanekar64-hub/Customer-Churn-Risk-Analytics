@@ -218,9 +218,7 @@ Customer-Churn-Risk-Analytics
 
 
 
-!\[Dashboard](Screenshots/Dashboard.png)
-
-
+!\[Dashboard](./Screenshots/Dashboard.png)
 
 \---
 
