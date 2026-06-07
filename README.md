@@ -200,7 +200,7 @@ Customer-Churn-Risk-Analytics
 
 ├── Screenshots
 
-│   └── Executive\_Dashboard.png
+│   └── Dashboard.png
 
 │
 
